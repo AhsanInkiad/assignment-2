@@ -108,7 +108,7 @@ nav{
     margin-right: auto;
     height: 700px;
     width: 1440px;
-    background-image: url(/banner.png);
+    background-image: url(./banner.png);
     border-radius: 8px;
 }
 /*----Header ends here----*/
