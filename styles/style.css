@@ -108,7 +108,7 @@ nav{
     margin-right: auto;
     height: 700px;
     width: 1440px;
-    background-image: url(./banner.png);
+    background-image: url(../banner.png);
     border-radius: 8px;
 }
 /*----Header ends here----*/
@@ -141,16 +141,16 @@ nav{
 }
 
 .one{
-    background-image: url(/team1.png); 
+    background-image: url(../team1.png); 
 }
 .two{
-    background-image: url(/team2.png);
+    background-image: url(../team2.png);
 }
 .three{
-    background-image: url(/team3.png);
+    background-image: url(../team3.png);
 }
 .four{
-    background-image: url(/team4.png);
+    background-image: url(../team4.png);
 }
 .main-info{
     height: 304px;
@@ -222,7 +222,7 @@ nav{
 
 .picture{
   
-    background-image: url(/architect.png);
+    background-image: url(../architect.png);
     background-repeat: no-repeat;
 }
 .overlap-div{
